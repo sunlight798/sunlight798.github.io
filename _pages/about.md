@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a senior undergraduate student at Beijing Institute of Technology, majoring in Computer Science and Technology. If you have any questions or ideas you would like to communicate with me about, please contact me via email at ziyangzhao@bit.edu.cn.
+I am a senior undergraduate student at Beijing Institute of Technology, majoring in Computer Science and Technology. If you have any questions or ideas you would like to communicate with me about, please contact me via email at <strong><span>ziyangzhao@bit.edu.cn</span></strong>.
 
-I am currently studying under <a herf='https://cs.bit.edu.cn/szdw/jsml/bssds/9945eaec458948239ce2caf9d3ae2cae.htm'>Zhang Yuxia</a> of Beijing Institute of Technology, conducting research related to open-source ecosystems. At the same time, I am very interested in large language models and am currently learning relevant knowledge.
+I am currently studying under <a href='https://cs.bit.edu.cn/szdw/jsml/bssds/9945eaec458948239ce2caf9d3ae2cae.htm'>Zhang Yuxia</a> of Beijing Institute of Technology, conducting research related to open-source ecosystems. At the same time, I am very interested in large language models and am currently learning relevant knowledge.
 
 
 # 🔥 News
