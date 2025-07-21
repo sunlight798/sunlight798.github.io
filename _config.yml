@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zhao Ziyang"
+  name             : "Zhao Ziyang (赵子阳)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Beijing Institute of Technology"
   location         : "Beijing, China"
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/sunlight798/" # e.g., "github username"
+  github           : "sunlight798" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
